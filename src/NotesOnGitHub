@@ -1,0 +1,20 @@
+GitHub:
+
+git push -> to push your code/change from your local
+repository to remote repository(GitHub)
+
+git pull -> to pull/get changes/codes/updates from remote
+repository to your local repository
+
+git clone -> to get  copy of remote repository into your
+local repository
+
+how to clone it?
+First: Create a remote repository in GitHub for java b2 project
+then push the project to GitHub
+
+To clone a git repository:
+go to git repository or url : http://github.com/ucode0101/UcodeAcademyB2_2024
+
+click on code button, and copy the url/https
+in the IntelliJ go to file -> new -> project
